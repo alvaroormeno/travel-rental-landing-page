@@ -23,7 +23,7 @@ function App() {
               The art of hosting is rooted in the thoughtful design. 
               Share your unique aesthetic with guests and extra income on a schedule that works for you.
             </p>
-            <button className="bg-purple-500 py-3 px-6 text-lg rounded-md w-48">Try hosting</button>
+            <button className="bg-gradient-to-r from-purple-300 to-purple-500 py-3 px-6 text-lg rounded-md w-48">Try hosting</button>
           </div> 
         </div>
         
