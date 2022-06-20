@@ -18,12 +18,12 @@ function App() {
           {/* MAIN CONTAINER */}
           <div className="px-8 py-16 border-2 border-green-300 max-w-xl grid grid-cols-1 gap-8">
             <h2 className="text-xl uppercase font-bold">Become a Host</h2>
-            <div className="text-6xl font-bold">Host your space, share your world</div>
+            <div className="text-5xl font-bold">Host your space, share your world</div>
             <p className="text-lg">
               The art of hosting is rooted in the thoughtful design. 
               Share your unique aesthetic with guests and extra income on a schedule that works for you.
             </p>
-            <button className="bg-gradient-to-r from-purple-300 to-purple-500 py-3 px-6 text-lg rounded-md w-48">Try hosting</button>
+            <button className="bg-gradient-to-r from-purple-300 to-red-500 py-3 px-6 text-lg rounded-md w-48">Try hosting</button>
           </div> 
         </div>
         
