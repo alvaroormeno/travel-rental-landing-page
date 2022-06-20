@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/travel-rental-landing-page/static/css/main.6e71ebd9.css",
+    "main.js": "/travel-rental-landing-page/static/js/main.b43d20e8.js",
+    "static/media/travel-house.jpg": "/travel-rental-landing-page/static/media/travel-house.17049ddc8eac823232c3.jpg",
+    "index.html": "/travel-rental-landing-page/index.html",
+    "static/media/airbnb-brands.svg": "/travel-rental-landing-page/static/media/airbnb-brands.048182c304f50af8d4fb209a004a4cb4.svg",
+    "main.6e71ebd9.css.map": "/travel-rental-landing-page/static/css/main.6e71ebd9.css.map",
+    "main.b43d20e8.js.map": "/travel-rental-landing-page/static/js/main.b43d20e8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6e71ebd9.css",
+    "static/js/main.b43d20e8.js"
+  ]
+}
