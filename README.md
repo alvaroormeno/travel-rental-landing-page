@@ -1,9 +1,5 @@
 
 # Airbnb Mock Landing Page
----
-
-
-
 
 
 <!-- TABLE OF CONTENTS -->
@@ -16,20 +12,14 @@
   - [Screenshots](#screenshots)
 </details>
 
----
-
 
 ## About The Project
 A simple mockup of an Airbnb landing page constructed fully with React and TailwindCSS
 
----
-
 
 ## Demo
-Live Page: https://alvaroormeno.github.io/travel-rental-landing-page/
-Github Repo: https://github.com/alvaroormeno/travel-rental-landing-page
-
----
+- Live Page: https://alvaroormeno.github.io/travel-rental-landing-page/
+- Github Repo: https://github.com/alvaroormeno/travel-rental-landing-page
 
 
 ## Built With 
@@ -39,13 +29,8 @@ Github Repo: https://github.com/alvaroormeno/travel-rental-landing-page
 - [React.js](https://reactjs.org/)
 - [TailwindCSS](https://tailwindcss.com/)
 
----
-
-
 
 ## Screenshots
 ![Screenshot 1](src/assets/screenshot-1.png)
-
----
 
 
