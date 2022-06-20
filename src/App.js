@@ -1,4 +1,6 @@
 import houseImg from '../src/assets/travel-house.jpg'
+import {ReactComponent as ReactLogo} from '../src/assets/airbnb-brands.svg'
+import React from 'react';
 
 function App() {
 
@@ -17,6 +19,10 @@ function App() {
         <div className='bg-gradient-to-r from-black'>
           {/* MAIN CONTAINER */}
           <div className="px-8 py-16 border-2 border-green-300 max-w-xl grid grid-cols-1 gap-8">
+            <div className='w-12'>
+              <ReactLogo className='fill-white '></ReactLogo>
+            </div>
+            
             <h2 className="text-xl uppercase font-bold">Become a Host</h2>
             <div className="text-5xl font-bold">Host your space, share your world</div>
             <p className="text-lg">
@@ -35,7 +41,7 @@ function App() {
       <div className=" px-8 py-16">
 
         {/* CONTAINER for big main text */}
-        <div className=" border-2 border-green-300 max-w-sm mb-16">
+        <div className=" border-2 border-green-300 max-w-md mb-16">
           <h2 className="text-5xl">Your next chapter, made possible by Hosting</h2>
         </div>
 
